@@ -1,0 +1,24 @@
+Age-Gender Distribution: Stacked bar chart
+
+Education Level: Pie chart
+
+Facility vs. Rating Heatmap: For correlation patterns
+
+Medicine Availability: Grouped bar chart
+
+Word Cloud: For visualizing common health issues
+
+Correlation Heatmap: Between service quality factors
+
+Vaccination Rates by Age Group: Grouped bar chart
+
+Maternal Checkups: Pie chart
+
+Key Insights from Charts:
+Word Cloud: Quickly identify dominant health issues (e.g., "Fever", "Malaria").
+
+Heatmaps: Reveal relationships like "villages without facilities rate services as Poor".
+
+Stacked Bars: Show how education level impacts awareness of government schemes.
+
+Correlation Map: Quantify how doctor availability relates to service ratings.
